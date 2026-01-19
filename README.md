@@ -17,4 +17,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0785-is-graph-bipartite) |
+## Array
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0054-spiral-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
