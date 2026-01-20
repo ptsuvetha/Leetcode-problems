@@ -32,9 +32,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0010-regular-expression-matching) |
 | [0071-simplify-path](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0071-simplify-path) |
 ## Stack
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0071-simplify-path) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0010-regular-expression-matching) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
