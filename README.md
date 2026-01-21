@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0785-is-graph-bipartite) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0785-is-graph-bipartite) |
 ## Union-Find
 |  |
@@ -16,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0785-is-graph-bipartite) |
 ## Array
 |  |
@@ -46,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0010-regular-expression-matching) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
