@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0010-regular-expression-matching) |
 | [0071-simplify-path](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0071-simplify-path) |
+| [0392-is-subsequence](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0042-trapping-rain-water) |
+| [0392-is-subsequence](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0392-is-subsequence) |
 ## Recursion
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0042-trapping-rain-water) |
+| [0392-is-subsequence](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0392-is-subsequence) |
 ## Monotonic Stack
 |  |
 | ------- |
