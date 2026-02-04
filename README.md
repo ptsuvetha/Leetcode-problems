@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0010-regular-expression-matching) |
 ## Topological Sort
 |  |
@@ -95,5 +96,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0043-multiply-strings) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
