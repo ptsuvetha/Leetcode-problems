@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0322-coin-change](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0322-coin-change) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/ptsuvetha/Leetcode-problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0127-word-ladder) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/ptsuvetha/Leetcode-problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1382-balance-a-binary-search-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/ptsuvetha/Leetcode-problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 <!---LeetCode Topics End-->
