@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0322-coin-change](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0322-coin-change) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1382-balance-a-binary-search-tree) |
 ## Prefix Sum
 |  |
