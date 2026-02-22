@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0054-spiral-matrix) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0322-coin-change](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0322-coin-change) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/ptsuvetha/Leetcode-problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Matrix
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0110-balanced-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0110-balanced-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1382-balance-a-binary-search-tree) |
 ## Math
@@ -123,12 +126,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0127-word-ladder) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/ptsuvetha/Leetcode-problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3713-longest-balanced-substring-i](https://github.com/ptsuvetha/Leetcode-problems/tree/master/3713-longest-balanced-substring-i) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1382-balance-a-binary-search-tree) |
 ## Greedy
 |  |
