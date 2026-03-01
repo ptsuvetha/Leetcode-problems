@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0061-rotate-list) |
 | [0165-compare-version-numbers](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0165-compare-version-numbers) |
 | [0392-is-subsequence](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0392-is-subsequence) |
 ## Monotonic Stack
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0328-odd-even-linked-list) |
