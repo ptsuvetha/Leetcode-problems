@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0127-word-ladder) |
 | [0165-compare-version-numbers](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0165-compare-version-numbers) |
 | [0392-is-subsequence](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0392-is-subsequence) |
+| [0451-sort-characters-by-frequency](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [3713-longest-balanced-substring-i](https://github.com/ptsuvetha/Leetcode-problems/tree/master/3713-longest-balanced-substring-i) |
 ## Stack
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0127-word-ladder) |
 | [0142-linked-list-cycle-ii](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/ptsuvetha/Leetcode-problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3713-longest-balanced-substring-i](https://github.com/ptsuvetha/Leetcode-problems/tree/master/3713-longest-balanced-substring-i) |
 ## Divide and Conquer
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [3713-longest-balanced-substring-i](https://github.com/ptsuvetha/Leetcode-problems/tree/master/3713-longest-balanced-substring-i) |
 ## Enumeration
 |  |
@@ -210,10 +213,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0295-find-median-from-data-stream) |
+| [0451-sort-characters-by-frequency](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0295-find-median-from-data-stream) |
+| [0451-sort-characters-by-frequency](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 ## Data Stream
 |  |
 | ------- |
@@ -222,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0204-count-primes) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
