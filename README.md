@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0785-is-graph-bipartite) |
+| [1306-jump-game-iii](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1306-jump-game-iii) |
 | [1382-balance-a-binary-search-tree](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1382-balance-a-binary-search-tree) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/ptsuvetha/Leetcode-problems/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0785-is-graph-bipartite) |
+| [1306-jump-game-iii](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1306-jump-game-iii) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/ptsuvetha/Leetcode-problems/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Union-Find
 |  |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0322-coin-change) |
 | [0506-relative-ranks](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0506-relative-ranks) |
 | [0973-k-closest-points-to-origin](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
+| [1306-jump-game-iii](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1306-jump-game-iii) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/ptsuvetha/Leetcode-problems/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/ptsuvetha/Leetcode-problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Matrix
