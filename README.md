@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0064-minimum-path-sum) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0064-minimum-path-sum) |
 | [0097-interleaving-string](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0097-interleaving-string) |
 | [0300-longest-increasing-subsequence](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0045-jump-game-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
