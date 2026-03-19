@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0155-min-stack) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0295-find-median-from-data-stream) |
 ## Sorting
 |  |
