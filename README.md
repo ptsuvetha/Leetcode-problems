@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0204-count-primes) |
+| [0239-sliding-window-maximum](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0322-coin-change) |
 | [0506-relative-ranks](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0506-relative-ranks) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0713-subarray-product-less-than-k](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0713-subarray-product-less-than-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ptsuvetha/Leetcode-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Bit Manipulation
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0506-relative-ranks) |
@@ -310,4 +313,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
