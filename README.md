@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0043-multiply-strings) |
 | [0071-simplify-path](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0071-simplify-path) |
+| [0076-minimum-window-substring](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0076-minimum-window-substring) |
 | [0097-interleaving-string](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0097-interleaving-string) |
 | [0127-word-ladder](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0127-word-ladder) |
 | [0165-compare-version-numbers](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0165-compare-version-numbers) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0127-word-ladder) |
 | [0142-linked-list-cycle-ii](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0076-minimum-window-substring) |
 | [0713-subarray-product-less-than-k](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0713-subarray-product-less-than-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ptsuvetha/Leetcode-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Bit Manipulation
