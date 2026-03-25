@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0064-minimum-path-sum) |
 | [0097-interleaving-string](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0097-interleaving-string) |
 | [0300-longest-increasing-subsequence](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0043-multiply-strings) |
+| [0062-unique-paths](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0062-unique-paths) |
 | [0204-count-primes](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0204-count-primes) |
 | [0973-k-closest-points-to-origin](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
 ## Linked List
@@ -321,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0239-sliding-window-maximum) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
