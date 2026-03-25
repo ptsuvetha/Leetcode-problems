@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0064-minimum-path-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0162-find-peak-element](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0162-find-peak-element) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0200-number-of-islands) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/ptsuvetha/Leetcode-problems/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0064-minimum-path-sum) |
 | [0097-interleaving-string](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0097-interleaving-string) |
 | [0300-longest-increasing-subsequence](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
