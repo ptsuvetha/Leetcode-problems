@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0392-is-subsequence) |
+| [0397-integer-replacement](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0397-integer-replacement) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ptsuvetha/Leetcode-problems/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Recursion
 |  |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0134-gas-station) |
+| [0397-integer-replacement](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0397-integer-replacement) |
 | [1382-balance-a-binary-search-tree](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
+| [0397-integer-replacement](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0397-integer-replacement) |
 | [0980-unique-paths-iii](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0980-unique-paths-iii) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Backtracking
@@ -339,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0062-unique-paths) |
+## Memoization
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->
