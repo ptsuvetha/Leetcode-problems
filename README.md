@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1306-jump-game-iii](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1345-jump-game-iv) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/ptsuvetha/Leetcode-problems/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
 | [0980-unique-paths-iii](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1306-jump-game-iii](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1345-jump-game-iv) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ptsuvetha/Leetcode-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0200-number-of-islands) |
 | [0980-unique-paths-iii](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/ptsuvetha/Leetcode-problems/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Simulation
 |  |
