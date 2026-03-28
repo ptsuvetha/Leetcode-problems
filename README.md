@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0785-is-graph-bipartite) |
 | [1306-jump-game-iii](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1306-jump-game-iii) |
 | [1382-balance-a-binary-search-tree](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1382-balance-a-binary-search-tree) |
+| [1631-path-with-minimum-effort](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1631-path-with-minimum-effort) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/ptsuvetha/Leetcode-problems/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1306-jump-game-iii](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1345-jump-game-iv) |
+| [1631-path-with-minimum-effort](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1631-path-with-minimum-effort) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/ptsuvetha/Leetcode-problems/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Union-Find
 |  |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0785-is-graph-bipartite) |
+| [1631-path-with-minimum-effort](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1631-path-with-minimum-effort) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/ptsuvetha/Leetcode-problems/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Graph Theory
 |  |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1306-jump-game-iii](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1345-jump-game-iv) |
+| [1631-path-with-minimum-effort](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1631-path-with-minimum-effort) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ptsuvetha/Leetcode-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/ptsuvetha/Leetcode-problems/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ptsuvetha/Leetcode-problems/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -94,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1631-path-with-minimum-effort) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/ptsuvetha/Leetcode-problems/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Simulation
 |  |
@@ -258,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0713-subarray-product-less-than-k](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0713-subarray-product-less-than-k) |
 | [1382-balance-a-binary-search-tree](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1382-balance-a-binary-search-tree) |
+| [1631-path-with-minimum-effort](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1631-path-with-minimum-effort) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -313,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0506-relative-ranks) |
 | [0973-k-closest-points-to-origin](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
+| [1631-path-with-minimum-effort](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1631-path-with-minimum-effort) |
 ## Data Stream
 |  |
 | ------- |
