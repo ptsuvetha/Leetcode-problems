@@ -1,7 +1,6 @@
 class Solution {
     private void findCombinations(int[] arr,int target,int ind,List<List<Integer>> ans, List<Integer> res){
-       
-            if(target==0){
+        if(target==0){
                 ans.add(new ArrayList<>(res));
                 return;
             }
