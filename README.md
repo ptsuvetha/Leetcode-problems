@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0494-target-sum) |
 | [0506-relative-ranks](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0506-relative-ranks) |
 | [0713-subarray-product-less-than-k](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0713-subarray-product-less-than-k) |
 | [0973-k-closest-points-to-origin](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0397-integer-replacement) |
+| [0494-target-sum](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0494-target-sum) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ptsuvetha/Leetcode-problems/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Recursion
 |  |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0051-n-queens) |
+| [0494-target-sum](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0494-target-sum) |
 | [0980-unique-paths-iii](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0980-unique-paths-iii) |
 ## Design
 |  |
