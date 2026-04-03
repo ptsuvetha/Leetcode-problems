@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0037-sudoku-solver](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0042-trapping-rain-water) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0064-minimum-path-sum) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0037-sudoku-solver](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0127-word-ladder) |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0046-permutations) |
