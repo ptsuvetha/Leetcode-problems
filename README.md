@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0204-count-primes) |
 | [0239-sliding-window-maximum](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
+| [0303-range-sum-query-immutable](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0303-range-sum-query-immutable) |
 | [0312-burst-balloons](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0494-target-sum) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0303-range-sum-query-immutable) |
 | [0713-subarray-product-less-than-k](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0713-subarray-product-less-than-k) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/ptsuvetha/Leetcode-problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Counting
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0295-find-median-from-data-stream) |
+| [0303-range-sum-query-immutable](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0303-range-sum-query-immutable) |
 ## Sorting
 |  |
 | ------- |
