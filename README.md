@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0097-interleaving-string) |
 | [0300-longest-increasing-subsequence](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0312-burst-balloons) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0397-integer-replacement](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0509-fibonacci-number) |
 ## Database
