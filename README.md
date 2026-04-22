@@ -413,4 +413,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0183-customers-who-never-order) |
 | [0607-sales-person](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0607-sales-person) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1978-employees-whose-manager-left-the-company) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/ptsuvetha/Leetcode-problems/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
