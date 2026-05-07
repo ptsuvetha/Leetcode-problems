@@ -413,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0178-rank-scores](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0178-rank-scores) |
 | [0182-duplicate-emails](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0183-customers-who-never-order) |
+| [0184-department-highest-salary](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0184-department-highest-salary) |
 | [0607-sales-person](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0607-sales-person) |
 | [1193-monthly-transactions-i](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1193-monthly-transactions-i) |
 | [1211-queries-quality-and-percentage](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1211-queries-quality-and-percentage) |
