@@ -417,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0184-department-highest-salary) |
 | [0511-game-play-analysis-i](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0511-game-play-analysis-i) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+| [0596-classes-with-at-least-5-students](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0607-sales-person) |
 | [0627-swap-sex-of-employees](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0627-swap-sex-of-employees) |
 | [1193-monthly-transactions-i](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1193-monthly-transactions-i) |
