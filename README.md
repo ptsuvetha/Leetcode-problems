@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0494-target-sum) |
 | [0506-relative-ranks](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0746-min-cost-climbing-stairs) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0239-sliding-window-maximum) |
+| [0643-maximum-average-subarray-i](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0713-subarray-product-less-than-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ptsuvetha/Leetcode-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Bit Manipulation
