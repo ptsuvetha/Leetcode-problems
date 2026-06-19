@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1345-jump-game-iv) |
 | [1631-path-with-minimum-effort](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1631-path-with-minimum-effort) |
+| [1732-find-the-highest-altitude](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1732-find-the-highest-altitude) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ptsuvetha/Leetcode-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/ptsuvetha/Leetcode-problems/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ptsuvetha/Leetcode-problems/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0724-find-pivot-index) |
+| [1732-find-the-highest-altitude](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1732-find-the-highest-altitude) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/ptsuvetha/Leetcode-problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Counting
 |  |
