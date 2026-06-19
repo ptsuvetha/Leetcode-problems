@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0064-minimum-path-sum) |
 | [0090-subsets-ii](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0090-subsets-ii) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0056-merge-intervals) |
 | [0295-find-median-from-data-stream](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0455-assign-cookies) |
