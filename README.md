@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0165-compare-version-numbers) |
 | [0392-is-subsequence](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
+| [0824-goat-latin](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0824-goat-latin) |
 | [1143-longest-common-subsequence](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1143-longest-common-subsequence) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [3713-longest-balanced-substring-i](https://github.com/ptsuvetha/Leetcode-problems/tree/master/3713-longest-balanced-substring-i) |
