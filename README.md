@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1345-jump-game-iv) |
 | [1539-kth-missing-positive-number](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1631-path-with-minimum-effort) |
+| [1656-design-an-ordered-stream](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1656-design-an-ordered-stream) |
 | [1732-find-the-highest-altitude](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1732-find-the-highest-altitude) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ptsuvetha/Leetcode-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/ptsuvetha/Leetcode-problems/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [1345-jump-game-iv](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1345-jump-game-iv) |
+| [1656-design-an-ordered-stream](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1656-design-an-ordered-stream) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ptsuvetha/Leetcode-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/ptsuvetha/Leetcode-problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3713-longest-balanced-substring-i](https://github.com/ptsuvetha/Leetcode-problems/tree/master/3713-longest-balanced-substring-i) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0303-range-sum-query-immutable) |
+| [1656-design-an-ordered-stream](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1656-design-an-ordered-stream) |
 ## Sorting
 |  |
 | ------- |
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0295-find-median-from-data-stream) |
+| [1656-design-an-ordered-stream](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1656-design-an-ordered-stream) |
 ## Number Theory
 |  |
 | ------- |
