@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0303-range-sum-query-immutable) |
 | [0312-burst-balloons](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0312-burst-balloons) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0143-reorder-list) |
 | [0165-compare-version-numbers](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0165-compare-version-numbers) |
+| [0287-find-the-duplicate-number](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0455-assign-cookies) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0090-subsets-ii](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0397-integer-replacement](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0397-integer-replacement) |
 | [0980-unique-paths-iii](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0980-unique-paths-iii) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
