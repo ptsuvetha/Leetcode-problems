@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0155-min-stack) |
+| [0234-palindrome-linked-list](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0234-palindrome-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0509-fibonacci-number) |
 ## Topological Sort
 |  |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0143-reorder-list) |
 | [0165-compare-version-numbers](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0165-compare-version-numbers) |
+| [0234-palindrome-linked-list](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0392-is-subsequence) |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0328-odd-even-linked-list) |
 ## Hash Table
 |  |
