@@ -463,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1193-monthly-transactions-i](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1193-monthly-transactions-i) |
 | [1211-queries-quality-and-percentage](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1251-average-selling-price) |
+| [1729-find-followers-count](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1729-find-followers-count) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/ptsuvetha/Leetcode-problems/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
