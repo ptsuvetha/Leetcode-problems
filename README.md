@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0055-jump-game) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0076-minimum-window-substring) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0001-two-sum) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0127-word-ladder) |
@@ -397,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0056-merge-intervals) |
 | [0295-find-median-from-data-stream](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
