@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1631-path-with-minimum-effort) |
 | [1656-design-an-ordered-stream](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1656-design-an-ordered-stream) |
 | [1732-find-the-highest-altitude](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1732-find-the-highest-altitude) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/ptsuvetha/Leetcode-problems/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ptsuvetha/Leetcode-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/ptsuvetha/Leetcode-problems/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ptsuvetha/Leetcode-problems/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0506-relative-ranks) |
 | [0973-k-closest-points-to-origin](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/ptsuvetha/Leetcode-problems/tree/master/2164-sort-even-and-odd-indices-independently) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
