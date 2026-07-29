@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0210-course-schedule-ii) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0234-palindrome-linked-list) |
 ## Dynamic Programming
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0662-maximum-width-of-binary-tree) |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0662-maximum-width-of-binary-tree) |
