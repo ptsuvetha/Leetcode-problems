@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0785-is-graph-bipartite) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0494-target-sum) |
 | [0506-relative-ranks](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0506-relative-ranks) |
+| [0542-01-matrix](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0704-binary-search) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0542-01-matrix) |
 | [0766-toeplitz-matrix](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0766-toeplitz-matrix) |
 | [0980-unique-paths-iii](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0994-rotting-oranges) |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0397-integer-replacement) |
 | [0494-target-sum](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1143-longest-common-subsequence) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ptsuvetha/Leetcode-problems/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
