@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0542-01-matrix) |
 | [0766-toeplitz-matrix](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0766-toeplitz-matrix) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0127-word-ladder) |
@@ -414,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0494-target-sum) |
 | [0980-unique-paths-iii](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0980-unique-paths-iii) |
