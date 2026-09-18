@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1306-jump-game-iii](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1345-jump-game-iv) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0704-binary-search](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/ptsuvetha/Leetcode-problems/tree/master/0713-subarray-product-less-than-k) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1382-balance-a-binary-search-tree](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/ptsuvetha/Leetcode-problems/tree/master/1539-kth-missing-positive-number) |
